@@ -1,6 +1,6 @@
-### 👋 Hi there , My name is Kim!
+# 👋 Hi there , My name is Kim!
 
-# About Me
+### About Me
 
 I'm a full stack web developer and recent graduate. I like to paint and practice making 3D models in my spare time. Currently, I'm trying to incorperate my hobbies into my projects.
 
